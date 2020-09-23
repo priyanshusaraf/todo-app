@@ -1,0 +1,9 @@
+.todo {
+  width: 60%;
+  text-align: center;
+  margin: 10px;
+  border: 1px solid rgb(218, 103, 37);
+  border-radius: 2px;
+  color: #0e0e0e;
+  background-color: aliceblue;
+}
